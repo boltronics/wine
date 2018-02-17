@@ -12,10 +12,10 @@ reporting bugs.
 
 ### Branch descriptions ###
 
- * [wine-3.1-origin](https://github.com/boltronics/wine/tree/wine-3.1-origin) -
+ * [wine-3.2-origin](https://github.com/boltronics/wine/tree/wine-3.2-origin) -
    wine-staging patches required to get Origin working
    * https://bugs.winehq.org/show_bug.cgi?id=35902
- * [wine-3.1-uplay](https://github.com/boltronics/wine/tree/wine-3.1-uplay) -
+ * [wine-3.2-uplay](https://github.com/boltronics/wine/tree/wine-3.2-uplay) -
    wine-staging patches required to get Uplay working
    * https://bugs.winehq.org/show_bug.cgi?id=40271
    * https://bugs.winehq.org/show_bug.cgi?id=41652
