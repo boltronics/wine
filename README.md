@@ -13,8 +13,9 @@ reporting bugs.
 ### Branch descriptions ###
 
  * [wine-3.2-origin](https://github.com/boltronics/wine/tree/wine-3.2-origin) -
-   wine-staging patches required to get Origin working
-   * https://bugs.winehq.org/show_bug.cgi?id=35902
+   wine-staging patches required to get Battle.net or Origin working
+   * https://bugs.winehq.org/show_bug.cgi?id=42000 (Battle.net report)
+   * https://bugs.winehq.org/show_bug.cgi?id=35902 (Origin report)
  * [wine-3.2-uplay](https://github.com/boltronics/wine/tree/wine-3.2-uplay) -
    wine-staging patches required to get Uplay working
    * https://bugs.winehq.org/show_bug.cgi?id=40271
